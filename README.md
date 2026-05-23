@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 🏆 Prestasi Terbaru
+* **Perwakilan Kabupaten Kediri** di ajang **LKS IT Software Solution for Business tingkat Provinsi Jawa Timur 2026**. 
+  👉 [Baca artikel berita lengkapnya di Website Resmi SMAN 1 Gurah](https://sman1gurah.sch.id/luar-biasa-siswa-sman-1-gurah-wakili-kabupaten-kediri-di-ajang-lks-it-software-se-jawa-timur-2026/)
 
 <!--
 **xafarid/xafarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
